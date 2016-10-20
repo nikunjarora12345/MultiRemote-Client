@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multi Remote</string>
+
+    <string name="track_pad_check">Track Pad</string>
+    <string name="connect">Connect</string>
+    <string name="title_activity_mouse">MouseActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_pad">GamePadActivity</string>
+    <string name="title_activity_racing_controller">RacingControllerActivity</string>
+    <string name="title_activity_keyboard">KeyboardActivity</string>
+</resources>
